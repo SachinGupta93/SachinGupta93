@@ -31,8 +31,11 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
-![snake dark gif](https://github.com/SachinGupta93/SachinGupta93/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+### 🐍 Snake Contribution (Light)
+![snake gif](https://github.com/SachinGupta93/SachinGupta93/raw/output/github-contribution-grid-snake.gif)
+
+### 🌙 Snake Contribution (Dark Mode)
+![snake svg dark](https://github.com/SachinGupta93/SachinGupta93/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 <picture>
