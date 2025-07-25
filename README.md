@@ -33,7 +33,6 @@
 
 ### 🐍 Snake Contribution Graph
 ![snake dark gif](https://github.com/SachinGupta93/SachinGupta93/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-![snake gif](https://github.com/SachinGupta93/SachinGupta93/blob/output/github-contribution-grid-snake.svg)
 
 
 <picture>
