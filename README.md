@@ -24,16 +24,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-### Light Mode
-![Snake Light](https://github.com/SachinGupta93/SachinGupta93/raw/output/github-contribution-grid-snake.svg)
-
-### Dark Mode
-![Snake Dark](https://github.com/SachinGupta93/SachinGupta93/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
