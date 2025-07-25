@@ -1,35 +1,70 @@
-<h2 align="left">Hi 👋! My name is Sachin Gupta and I'm a Full-Stack Developer & AI Enthusiast from India 🇮🇳</h2>
+<h1 align="center">Hi 👋, I'm Sachin Gupta</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Explorer | Automation Enthusiast</h3>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinGupta93&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinGupta93&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
+## 🛠️ Tech Stack & Skills
+
+- 💻 Languages: JavaScript, TypeScript, Python, C
+- 🌐 Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS
+- 🔧 Backend: Node.js, Express.js, Flask, MongoDB, Firebase
+- 📦 Tools: Git, Docker, GitHub Actions, Postman
+- 📱 Mobile: React Native
+- 🤖 AI/ML: HuggingFace, Scikit-learn, Pandas, OpenAI APIs
+- ☁️ Others: Vercel, Netlify, Linux, Bash
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coder GIF" />
+## 💼 Projects
 
-### 🧠 Skills & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-</div>
+- 🎮 **Snake Contributions Game**: GitHub activity visualized as a retro snake game.
+- 🧠 **AI Heart Disease Predictor**: Patient-doctor platform using AI predictions.
+- 📡 **Tech News Aggregator**: Full-stack TypeScript app for curated tech + investment videos.
+- 🤖 **Personal AI Agent**: Built with Next.js + GPT-4, automated answers, scraper, and workflows.
 
 ---
 
-### 🌐 Connect With Me
+## 🐍 GitHub Contribution Snake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachingupta9381/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachingupta9381@gmail.com)
+### Light Mode
+![Snake Light](https://github.com/SachinGupta93/SachinGupta93/raw/output/github-contribution-grid-snake.svg)
+
+### Dark Mode
+![Snake Dark](https://github.com/SachinGupta93/SachinGupta93/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinGupta93&show_icons=true&theme=github_dark" alt="Sachin's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinGupta93&layout=compact&theme=github_dark" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinGupta93&theme=matrix&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔥 Quote to Remember
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sachingupta9381/)
+- GitHub: [SachinGupta93](https://github.com/SachinGupta93)
+
+---
+
+⭐️ *If you like what I do, give me a star!*
 
 ### 🐍 Snake Contribution (Dark Mode)
 ![snake svg dark](https://github.com/SachinGupta93/SachinGupta93/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
