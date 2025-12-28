@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinGupta93&show_icons=true&theme=github_dark&hide_border=true" alt="Sachin's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinGupta93&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinGupta93&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Sachin's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinGupta93&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180px" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinGupta93&theme=matrix&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinGupta93&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
