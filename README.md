@@ -12,7 +12,7 @@
 - 📦 Tools: Git, Docker, GitHub Actions, Postman
 - 📱 Mobile: React Native
 - 🤖 AI/ML: HuggingFace, Scikit-learn, Pandas, OpenAI APIs
-- ☁️ Others: Vercel, Netlify, Linux, Bash
+- ☁️ Others: Vercel, Netlify, Bash
 
 ---
 
